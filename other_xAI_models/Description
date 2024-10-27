@@ -1,0 +1,2 @@
+This folder contains the notebooks used for implementing other xAI models like Aggregared LIME and Occlusion Sensitivity Mapping (OSM) inspired by SBSM
+These models were also evaluated to assess how effectively the saliency maps they generated highlight the key regions of the image that influenced the CBIR model's decision.
