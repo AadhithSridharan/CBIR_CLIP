@@ -1,0 +1,2 @@
+In our project, we have used CLIP as the feature extractor. After extraction, these features are compared and the most similar images are retrieved
+In addition to CLIP, we have experimented with other feature extractors as well, which are available in this section
